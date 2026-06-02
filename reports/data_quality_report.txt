@@ -1,0 +1,14 @@
+
+DATA QUALITY REPORT
+
+Fund Master Records:
+40
+
+NAV History Records:
+46000
+
+Duplicate Records:
+0
+
+Missing AMFI Codes:
+0
